@@ -31,3 +31,4 @@ Then, in the settings tab, set **Style DT** to the rich text style data table yo
 
 *Note*: Sometimes, when you select text to wrap it with a rich text tag, it duplicates the text. This bug is currently unresolved and no fix has been found yet.
  
+- You can also export the dialogue to a CSV file that you can open with any spreadsheet editor
